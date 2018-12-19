@@ -24,7 +24,7 @@
 }());
 (function() {
 	var player;
-	var turndownAt = 33
+	var turndownAt = 54
 	var numTurntAnimations = 10
 	var turntDown = false;
 	var maxNodes = 1000;
@@ -67,7 +67,7 @@
 			player = new YT.Player('tdfw', {
 				height: '200',
 				width: '305',
-				videoId: 'mDFBTdToRmw',
+				videoId: 'GKzsktuqwyU',
 				events: {
 					'onReady': onPlayerReady,
 					'onStateChange': onPlayerStateChange
